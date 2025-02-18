@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jadog1, Jadon Steinmetz
-- 👀 I’m interested in big data, data analytics, machine learning, business logic, and CRM development
-- 🌱 I’m currently learning neural networking, socket communication (and improving efficiency), and general mapping algorithms
+- 👀 I’m interested in big data, machine learning, and distributed systems.
+- 🌱 I’m currently growing in machine learning through building models at work, at home, and leading more initiatives at work for it.
 - 💞️ I’m looking to collaborate on just about anything :)
 - 📫 How to reach me: jadonsteinmetz161@gmail.com
 
